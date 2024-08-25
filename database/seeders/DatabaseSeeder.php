@@ -1,5 +1,5 @@
 <?php
-
+// php artisan migrate:refresh --seed   
 namespace Database\Seeders;
 
 use App\Models\User;

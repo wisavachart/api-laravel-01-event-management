@@ -1,5 +1,5 @@
 <?php
-
+// php artisan make:factory EvenFactory --model=Event 
 namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;

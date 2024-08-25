@@ -1,5 +1,5 @@
 <?php
-
+// php artisan install:api 
 use App\Http\Controllers\Api\AttendeeController;
 use App\Http\Controllers\Api\EventController;
 

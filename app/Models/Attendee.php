@@ -1,5 +1,5 @@
 <?php
-
+// php artisan make:model Attendee -m  
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
